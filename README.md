@@ -8,4 +8,6 @@ To reset the settings press RESET SETTINGS.
 To choose a preset press one of the numbers to the right of Presets.
 To choose a set of random settings, press RANDOM PARTICLE EMITTER.
 
+NOTE: The executable has only been confirmed to work on Windows 10. To run the python file you will need to install pygame.
+
 ![Capture - Copy](https://user-images.githubusercontent.com/82299803/123397730-34ce4c80-d54f-11eb-921c-5742de877f1d.PNG)
